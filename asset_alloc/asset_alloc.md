@@ -1,6 +1,5 @@
----
-title: "📊 Portfolio Efficient Frontier, Rolling Analysis & Rebalancing Policy"
----
+# 📊 Portfolio Efficient Frontier, Rolling Analysis & Rebalancing Policy
+
 
 ## 1. Overview
 
